@@ -1,0 +1,14 @@
+{
+  "orgName": "v61Issue",
+  "edition": "Enterprise",
+  "features": ["EnableSetPasswordInApi"],
+  "release": "preview",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
